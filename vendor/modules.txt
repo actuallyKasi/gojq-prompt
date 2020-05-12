@@ -1,0 +1,50 @@
+# github.com/alecthomas/participle v0.4.2-0.20191220090139-9fbceec1d131
+github.com/alecthomas/participle
+github.com/alecthomas/participle/lexer
+# github.com/c-bata/go-prompt v0.2.3
+## explicit
+github.com/c-bata/go-prompt
+# github.com/cweill/gotests v1.5.3
+## explicit
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/itchyny/astgen-go v0.0.0-20200116103543-aaa595cf980e
+github.com/itchyny/astgen-go
+# github.com/itchyny/gojq v0.10.1
+## explicit
+github.com/itchyny/gojq
+# github.com/lestrrat-go/strftime v1.0.1
+github.com/lestrrat-go/strftime
+# github.com/mattn/go-colorable v0.1.6
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.12
+github.com/mattn/go-isatty
+# github.com/mattn/go-runewidth v0.0.9
+github.com/mattn/go-runewidth
+# github.com/mattn/go-tty v0.0.3
+## explicit
+github.com/mattn/go-tty
+# github.com/pbnjay/strptime v0.0.0-20140226051138-5c05b0d668c9
+github.com/pbnjay/strptime
+# github.com/pkg/errors v0.9.1
+github.com/pkg/errors
+# github.com/pkg/term v0.0.0-20190109203006-aa71e9d9e942
+## explicit
+github.com/pkg/term/termios
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/spf13/pflag v1.0.5
+## explicit
+github.com/spf13/pflag
+# github.com/stretchr/testify v1.5.0
+## explicit
+github.com/stretchr/testify/assert
+# github.com/tidwall/pretty v1.0.1
+## explicit
+github.com/tidwall/pretty
+# golang.org/x/sys v0.0.0-20200331124033-c3d80250170d
+golang.org/x/sys/unix
+# golang.org/x/tools v0.0.0-20200509030707-2212a7e161a5
+## explicit
+# gopkg.in/yaml.v2 v2.2.2
+gopkg.in/yaml.v2
