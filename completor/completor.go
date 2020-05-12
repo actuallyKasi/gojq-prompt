@@ -14,10 +14,11 @@ func NewCompleter(version string) (*Completer, error) {
 }
 
 // Complete .
-func (c *Completer) Complete(d prompt.Document) []prompt.Suggest {
+func (c *Completer) Complete(d prompt.Document) (ps []prompt.Suggest) {
 
 	if d.TextBeforeCursor() == "" {
 		return prompt.FilterHasPrefix(commands, d.GetWordBeforeCursor(), true)
 	}
+	return ps
 
 }
